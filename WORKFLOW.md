@@ -9,15 +9,15 @@
 
 ```mermaid
     flowchart TD
-        S1["Prepare data source"]
-    S2["Choose analytical view"]
-    S3["Build narrative frame"]
-    S4["Review outputs across views"]
-    S5["Share a public-safe story"]
-    S1 --> S2
-    S2 --> S3
-    S3 --> S4
-    S4 --> S5
+        W1["Prepare data source"]
+    W2["Choose analytical view"]
+    W3["Build narrative frame"]
+    W4["Review outputs across views"]
+    W5["Share a public-safe story"]
+    W1 --> W2
+    W2 --> W3
+    W3 --> W4
+    W4 --> W5
 ```
 
 ## Publication boundary
